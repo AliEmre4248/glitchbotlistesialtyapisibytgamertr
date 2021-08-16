@@ -1,0 +1,47 @@
+.anasayfabtnmenu{
+	background-color: #CFCFCF;
+	padding: 15px;
+	color: black;
+	position: relative;
+	top: 25px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.anasayfabtnmenu:hover{
+	background-color: black;
+	color: white;
+	transition: all 0.3s ease;
+}
+
+.iletisimbtnmenu{
+	background-color: #CFCFCF;
+	padding: 15px;
+	color: black;
+	position: relative;
+	top: 25px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.iletisimbtnmenu:hover{
+	background-color: black;
+	color: white;
+	transition: all 0.3s ease;
+}
+
+.botlistbtnmenu{
+	background-color: #CFCFCF;
+	padding: 15px;
+	color: black;
+	position: relative;
+	top: 25px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.botlistbtnmenu:hover{
+	background-color: black;
+	color: white;
+	transition: all 0.3s ease;
+}
